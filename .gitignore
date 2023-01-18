@@ -131,3 +131,6 @@ dmypy.json
 
 # Portable Network Graphics
 *.png
+
+# Docx
+*.docx
