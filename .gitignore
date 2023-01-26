@@ -135,5 +135,10 @@ dmypy.json
 # Docx
 *.docx
 
+<<<<<<< HEAD
 # Videos
+=======
+
+# Video
+>>>>>>> 26c039dccce30643355ba4ca282dff4f4696d695
 *.mp4
